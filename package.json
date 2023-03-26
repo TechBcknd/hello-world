@@ -1,0 +1,15 @@
+{
+	"name": "hello-world",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/TechBcknd/hello-world.git",
+	"author": "Tech <tech@bcknd.tech>",
+	"license": "MIT",
+	"private": true,
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
